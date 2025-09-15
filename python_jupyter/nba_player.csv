@@ -1,0 +1,100 @@
+Team,Player,Position,Number,Height,Weight,Age
+Los Angeles Lakers,LeBron James,Forward,23,"6'9""",250,40
+Los Angeles Lakers,Anthony Davis,Forward-Center,3,"6'10""",253,31
+Golden State Warriors,Stephen Curry,Guard,30,"6'3""",185,36
+Golden State Warriors,Klay Thompson,Guard,11,"6'6""",215,33
+Golden State Warriors,Draymond Green,Forward,23,"6'7""",230,34
+Brooklyn Nets,Mikal Bridges,Forward,0,"6'6""",200,27
+Brooklyn Nets,Ben Simmons,Guard-Forward,10,"6'10""",240,27
+Chicago Bulls,Zach LaVine,Guard,8,"6'5""",200,28
+Chicago Bulls,DeMar DeRozan,Forward,11,"6'6""",220,34
+Miami Heat,Jimmy Butler,Forward,22,"6'7""",230,34
+Miami Heat,Bam Adebayo,Center,13,"6'9""",255,27
+Boston Celtics,Jayson Tatum,Forward,0,"6'8""",210,25
+Boston Celtics,Jaylen Brown,Guard-Forward,7,"6'6""",225,26
+Milwaukee Bucks,Giannis Antetokounmpo,Forward,34,"6'11""",250,29
+Milwaukee Bucks,Jrue Holiday,Guard,21,"6'3""",215,32
+Phoenix Suns,Kevin Durant,Forward,35,"6'10""",240,35
+Phoenix Suns,Devin Booker,Guard,1,"6'5""",210,27
+Denver Nuggets,Nikola Jokić,Center,15,"7'0""",284,28
+Dallas Mavericks,,Guard,77,"6'7""",230,25
+Dallas Mavericks,Derrick Jones Jr.,Forward,5,"6'7""",210,25
+Houston Rockets,,Center,28,"6'11""",240,23
+Houston Rockets,Jalen Green,Guard,0,"6'5""",210,22
+Portland Trail Blazers,Anfernee Simons,Guard,1,"6'3""",185,25
+Portland Trail Blazers,Jerami Grant,Forward,9,"6'8""",210,30
+Utah Jazz,Lauri Markkanen,Forward,2,,225,27
+Utah Jazz,Walker Kessler,Center,22,"7'1""",245,22
+Sacramento Kings,De'Aaron Fox,Guard,5,"6'3""",185,26
+Sacramento Kings,Domantas Sabonis,Center,10,"6'11""",240,27
+New York Knicks,Jalen Brunson,Guard,11,"6'1""",190,28
+New York Knicks,RJ Barrett,Forward,9,"6'6""",200,23
+Philadelphia 76ers,Joel Embiid,Center,21,"7'0""",280,30
+Philadelphia 76ers,Tyrese Maxey,Guard,0,"6'2""",190,24
+Toronto Raptors,Scottie Barnes,Forward,,"6'6""",225,23
+Orlando Magic,Paolo Banchero,Forward,5,"6'10""",225,20
+Orlando Magic,Jalen Suggs,Guard,1,"6'4""",205,22
+Atlanta Hawks,Trae Young,Guard,11,"6'1""",180,25
+Atlanta Hawks,Dejounte Murray,Guard,5,"6'4""",220,28
+Cleveland Cavaliers,Darius Garland,Guard,10,"6'1""",190,
+Cleveland Cavaliers,Evan Mobley,Forward-Center,4,"7'0""",220,21
+Indiana Pacers,Tyrese Haliburton,,0,"6'6""",195,25
+Indiana Pacers,Paolo Banchero,Forward,5,"6'10""",225,20
+Memphis Grizzlies,Jaren Jackson Jr.,Forward-Center,13,"6'11""",242,23
+Memphis Grizzlies,Ja Morant,Guard,12,"6'3""",200,25
+New Orleans Pelicans,Zion Williamson,Forward,1,"6'6""",284,23
+New Orleans Pelicans,Brandon Ingram,Forward,14,"6'8""",210,26
+San Antonio Spurs,Victor Wembanyama,Center,1,"7'4""",225,19
+San Antonio Spurs, Devin Vassell,Forward,24,"6'5""",210,22
+Oklahoma City Thunder,Shai Gilgeous-Alexander,Guard,2,,180,26
+Oklahoma City Thunder,Jalen Williams,Forward,8,"6'7""",205,
+Minnesota Timberwolves,Anthony Edwards,,5,"6'4""",215,22
+Minnesota Timberwolves,Karl-Anthony Towns,Center,32,"7'0""",248,27
+Los Angeles Clippers,Kawhi Leonard,Forward,2,"6'7""",225,33
+Los Angeles Clippers,Paul George,Forward,13,"6'8""",220,34
+,Russell Westbrook,Guard,0,"6'3""",215,36
+Golden State Warriors,Andrew Wiggins,Forward,22,"6'7""",225,29
+Golden State Warriors,Kevon Looney,Center,5,"6'9""",245,27
+Chicago Bulls,Alex Caruso,Guard,6,"6'5""",200,30
+Chicago Bulls,DeMar DeRozan,Forward,11,,220,34
+Dallas Mavericks,Tim Hardaway Jr.,Guard,3,"6'6""",200,32
+Brooklyn Nets,Nic Claxton,Center,33,"7'0""",240,26
+Houston Rockets,Jabari Smith Jr.,Forward,10,"6'10""",210,21
+Phoenix Suns,Chris Paul,Guard,3,"6'0""",175,39
+Denver Nuggets,Kendrick Nunn,Guard,13,"6'1""",190,
+Miami Heat,Kyle Lowry,Guard,7,"6'0""",190,37
+Milwaukee Bucks,,Forward,22,"6'7""",225,33
+Sacramento Kings,Harrison Barnes,Forward,40,"6'7""",225,32
+Detroit Pistons,Cade Cunningham,Guard,2,"6'4""",205,21
+Detroit Pistons,Jalen Duren,Center,15,"6'10""",250,19
+Washington Wizards,Bradley Beal,Guard,3,"6'4""",220,31
+Washington Wizards,Kristaps Porziņģis,Center,6,"7'3""",240,29
+Charlotte Hornets,LaMelo Ball,Guard,1,"6'7""",200,22
+Charlotte Hornets,Gordon Hayward,Forward,20,"6'7""",,35
+Toronto Raptors,O.G. Anunoby,Forward,3,,210,28
+Oklahoma City Thunder,Josh Giddey,Guard,3,"6'8""",200,22
+Utah Jazz,Collin Sexton,Guard,2,"6'1""",190,26
+Utah Jazz,,Guard,0,"6'4""",200,30
+Denver Nuggets,Michael Porter Jr.,Forward,1,"6'10""",218,24
+Boston Celtics,Marcus Smart,Guard,36,"6'3""",220,30
+Miami Heat,Vince Carter Jr.,Forward,34,"6'8""",205,
+Memphis Grizzlies,Dillon Brooks,Guard,24,"6'6""",210,28
+Toronto Raptors,Pascal Siakam,Forward,43,"6'9""",250,30
+Houston Rockets,Fred VanVleet,Guard,5,"6'1""",195,32
+Los Angeles Lakers,Russell Westbrook,Guard,0,"6'3""",215,36
+Portland Trail Blazers,Deandre Ayton,Center,22,"7'0""",250,25
+Sacramento Kings,Keegan Murray,Forward,32,"6'7""",215,22
+New York Knicks,,Forward,30,"6'8""",235,29
+Philadelphia 76ers,James Harden,Guard,1,,220,34
+Atlanta Hawks,Clint Capela,Center,15,"6'10""",250,30
+Atlanta Hawks,John Collins,Forward,20,"6'9""",235,28
+Dallas Mavericks,Christian Wood,Center,35,"6'10""",235,30
+Oklahoma City Thunder,Chet Holmgren,Center,7,"7'1""",210,20
+New Orleans Pelicans,Herb Jones,Guard,4,"6'5""",200,25
+Brooklyn Nets,Day'Ron Sharpe,Center,22,,280,22
+Denver Nuggets,Jamal Murray,Guard,27,"6'5""",215,28
+Cleveland Cavaliers,Isaac Okoro,Forward,35,"6'6""",220,21
+,Jimmy Butler,Forward,22,"6'7""",230,34
+Sacramento Kings,Malik Monk,Guard,8,"6'3""",195,25
+Golden State Warriors,Klay Thompson,Guard,11,"6'6""",215,33
+Chicago Bulls,Derrick Jones Jr.,Forward,5,"6'7""",210,
